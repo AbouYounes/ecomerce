@@ -1,5 +1,7 @@
-package de.ecom.ecomapplication;
+package de.ecom.ecomapplication.controller;
 
+import de.ecom.ecomapplication.model.User;
+import de.ecom.ecomapplication.service.UserService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

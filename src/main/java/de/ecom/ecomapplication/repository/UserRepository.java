@@ -1,5 +1,6 @@
-package de.ecom.ecomapplication;
+package de.ecom.ecomapplication.repository;
 
+import de.ecom.ecomapplication.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
